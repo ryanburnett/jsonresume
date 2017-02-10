@@ -1,0 +1,222 @@
+{
+	"basics": {
+		"name": "Ryan Burnett",
+		"label": "UX Designer & Developer",
+		"picture": "",
+		"email": "ryanjburnett@gmail.com",
+		"website": "http://ryanburnett.com",
+		"summary": "Award-winning and certified UX designer and developer with demonstrated results in mobile and responsive design.",
+		"location": {
+			"city": "Roswell",
+			"countryCode": "US",
+			"region": "Georgia"
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "ryanburnett",
+				"url": "https://twitter.com/ryanburnett"
+			},
+			{
+				"network": "GitHub",
+				"username": "ryanburnett",
+				"url": "https://github.com/ryanburnett"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "ryanburnett",
+				"url": "https://linkedin.com/in/ryanburnett"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Amazon",
+			"position": "Web Design Engineer",
+			"website": "https://amazon.com",
+			"startDate": "2015-02-02",
+			"endDate": "2020-01-01",
+			"summary": "asdf",
+			"highlights": [
+				"Redesigned the sign in and checkout UX at Fabric.com resulting in a $17 million annual revenue increase",
+				"Designed and developed the front end for new internal shipping application that added $2.5 million annual savings",
+				"Redesigned Home Decor site that increased conversion from 5% to 5.5%"
+			]
+		},
+		{
+			"company": "ADP",
+			"position": "Web Developer, Contractor",
+			"website": "https://adp.com",
+			"startDate": "2014-10-01",
+			"endDate": "2015-01-02",
+			"summary": "asdf",
+			"highlights": [
+				"Developed new AngularJS features for the Red Box application, a complete redesign of ADP’s client-facing site",
+				"Wired up data with $http get and post calls using a RESTful web API",
+				"Wrote Jasmine tests to automate code testing"
+			]
+		},
+		{
+			"company": "The Weather Channel",
+			"position": "Software Engineer, Contractor",
+			"website": "https://weather.com",
+			"startDate": "2014-08-01",
+			"endDate": "2014-10-01",
+			"summary": "asdf",
+			"highlights": [
+				"Developed new features for the weather.com redesign",
+				"Integrated modules consisting of HTML, Sass, JavaScript and AngularJS into Drupal content management system",
+				"Managed each module as its own branch in git, submitting pull requests through Stash to merge into master"
+			]
+		},
+		{
+			"company": "SolTech",
+			"position": "Information Engineer",
+			"website": "https://soltech.net",
+			"startDate": "2013-03-01",
+			"endDate": "2014-08-01",
+			"summary": "asdf",
+			"highlights": [
+				"Created the responsive UI for Fusionetics, a medical web app used by the New York Yankees & Phoneix Suns",
+				"Developed interactive experience design documentation for consistent use of color, fonts, images and functionality",
+				"Built the front-end for insurance group Code SixFour using DotNetNuke"
+			]
+		},
+		{
+			"company": "Stanford University",
+			"position": "Web Developer",
+			"website": "https://stanford.edu",
+			"startDate": "2010-07-01",
+			"endDate": "2013-03-01",
+			"summary": "",
+			"highlights": [
+				"Implemented new features for existing sites such as stanford.edu, Stanford News & Stanford Events",
+				"Developed new top-level sites including Stanford Identity, Home of Champions, STAN 2011 & StanfordNYC",
+				"Redesigned content management systems such as the Stanford CMS & WordPress theme",
+				"Built mobile-friendly & responsive sites including Stanford Mobile, News, Parents, Dish & Commencement"
+			]
+		},
+		{
+			"company": "Stanford Hospital & Clinics",
+			"position": "Web Marketing Specialist",
+			"website": "https://stanfordhealthcare.org",
+			"startDate": "2008-12-01",
+			"endDate": "2010-07-01",
+			"summary": "asdf",
+			"highlights": [
+				"Designed organic inpatient program Farm Fresh site that captured 4,500 visitors in its first month",
+				"Developed Bariatric Surgery site that beat benchmarks by 300%",
+				"Managed Microsoft SharePoint Intranet site, providing ongoing training, support & problem resolution"
+			]
+		},
+		{
+			"company": "Stanford University Medical Center",
+			"position": "Marketing & Communications Assistant",
+			"website": "https://stanfordhealthcare.org",
+			"startDate": "2008-01-01",
+			"endDate": "2008-12-01",
+			"summary": "asdf",
+			"highlights": [
+				"Utilized Google Analytics user data for an improved UI resulting in an 18% conversion increase",
+				"Created the Medical Center’s first blog and redesigned recruitment website & bi-weekly e-newsletter",
+				"Saved Stanford $30,000 & 141,000 sheets of paper annually through new hire communications redesign"
+			]
+		},
+		{
+			"company": "Involution Studios",
+			"position": "Web Developer",
+			"startDate": "2007-06-01",
+			"endDate": "2007-12-01",
+			"summary": "asdf",
+			"highlights": [
+				"Implemented enterprise-level Web sites with a creative team of designers, developers and programmers",
+				"Created sales prototype Web site for startup Bright Minds Software",
+				"Developed instructional design e-learning Web site for Faculte"
+			]
+		},
+		{
+			"company": "Burnett Communications",
+			"position": "President",
+			"website": "http://burnettcom.com",
+			"startDate": "2006-01-01",
+			"endDate": "2007-05-01",
+			"summary": "asdf",
+			"highlights": [
+				"Started communications firm handling all aspects including business development, sales and marketing",
+				"Established sales application that generated online business leads through Google, Yahoo and MSN",
+				"Designed and developed award-winning Web sites for Yahoo, ANB Insurance & The University of Alabama"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "The University of Alabama",
+			"area": "Advertising and Public Relations",
+			"studyType": "MA",
+			"startDate": "2004-08-01",
+			"endDate": "2005-08-01",
+			"gpa": "3.8"
+		},
+		{
+			"institution": "The University of North Carolina at Greensboro",
+			"area": "Education",
+			"studyType": "BFA",
+			"startDate": "1999-08-01",
+			"endDate": "2002-12-01",
+			"gpa": "3.78"
+		}
+	],
+	"awards": [
+		{
+			"title": "Gold International Hermes Creative Award",
+			"date": "2008-06-05",
+			"awarder": "Hermes Creative Awards",
+			"summary": "International awards competition for creative professionals involved in the concept, writing and design of traditional and emerging media"
+		}
+	],
+	"skills": [
+		{
+			"name": "UI Development",
+			"level": "Expert",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Angular",
+				"jQuery",
+				"Git",
+				"Gulp",
+				"Grunt",
+				"Bower",
+				"Yeoman"
+			]
+		},
+		{
+			"name": "UX Design",
+			"level": "Expert",
+			"keywords": [
+				"User Research",
+				"Wireframing",
+				"Prototyping",
+				"Photoshop"
+			]
+		}
+	],
+	"interests": [
+		{
+			"name": "Photography",
+			"keywords": [
+				"DSLR",
+				"Adobe Lightroom"
+			]
+		},
+		{
+			"name": "Film",
+			"keywords": [
+				"Movies",
+				"Filming",
+				"Final Cut Pro X"
+			]
+		}
+	]
+}
