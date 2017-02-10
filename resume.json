@@ -36,7 +36,6 @@
 			"website": "https://amazon.com",
 			"startDate": "2015-02-02",
 			"endDate": "2020-01-01",
-			"summary": "asdf",
 			"highlights": [
 				"Redesigned the sign in and checkout UX at Fabric.com resulting in a $17 million annual revenue increase",
 				"Designed and developed the front end for new internal shipping application that added $2.5 million annual savings",
@@ -49,7 +48,6 @@
 			"website": "https://adp.com",
 			"startDate": "2014-10-01",
 			"endDate": "2015-01-02",
-			"summary": "asdf",
 			"highlights": [
 				"Developed new AngularJS features for the Red Box application, a complete redesign of ADP’s client-facing site",
 				"Wired up data with $http get and post calls using a RESTful web API",
@@ -62,7 +60,6 @@
 			"website": "https://weather.com",
 			"startDate": "2014-08-01",
 			"endDate": "2014-10-01",
-			"summary": "asdf",
 			"highlights": [
 				"Developed new features for the weather.com redesign",
 				"Integrated modules consisting of HTML, Sass, JavaScript and AngularJS into Drupal content management system",
@@ -75,7 +72,6 @@
 			"website": "https://soltech.net",
 			"startDate": "2013-03-01",
 			"endDate": "2014-08-01",
-			"summary": "asdf",
 			"highlights": [
 				"Created the responsive UI for Fusionetics, a medical web app used by the New York Yankees & Phoneix Suns",
 				"Developed interactive experience design documentation for consistent use of color, fonts, images and functionality",
@@ -88,7 +84,6 @@
 			"website": "https://stanford.edu",
 			"startDate": "2010-07-01",
 			"endDate": "2013-03-01",
-			"summary": "",
 			"highlights": [
 				"Implemented new features for existing sites such as stanford.edu, Stanford News & Stanford Events",
 				"Developed new top-level sites including Stanford Identity, Home of Champions, STAN 2011 & StanfordNYC",
@@ -102,7 +97,6 @@
 			"website": "https://stanfordhealthcare.org",
 			"startDate": "2008-12-01",
 			"endDate": "2010-07-01",
-			"summary": "asdf",
 			"highlights": [
 				"Designed organic inpatient program Farm Fresh site that captured 4,500 visitors in its first month",
 				"Developed Bariatric Surgery site that beat benchmarks by 300%",
@@ -115,7 +109,6 @@
 			"website": "https://stanfordhealthcare.org",
 			"startDate": "2008-01-01",
 			"endDate": "2008-12-01",
-			"summary": "asdf",
 			"highlights": [
 				"Utilized Google Analytics user data for an improved UI resulting in an 18% conversion increase",
 				"Created the Medical Center’s first blog and redesigned recruitment website & bi-weekly e-newsletter",
@@ -127,7 +120,6 @@
 			"position": "Web Developer",
 			"startDate": "2007-06-01",
 			"endDate": "2007-12-01",
-			"summary": "asdf",
 			"highlights": [
 				"Implemented enterprise-level Web sites with a creative team of designers, developers and programmers",
 				"Created sales prototype Web site for startup Bright Minds Software",
@@ -140,7 +132,6 @@
 			"website": "http://burnettcom.com",
 			"startDate": "2006-01-01",
 			"endDate": "2007-05-01",
-			"summary": "asdf",
 			"highlights": [
 				"Started communications firm handling all aspects including business development, sales and marketing",
 				"Established sales application that generated online business leads through Google, Yahoo and MSN",
@@ -167,6 +158,12 @@
 		}
 	],
 	"awards": [
+		{
+			"title": "NN/g UX Certification",
+			"date": "2016-10-14",
+			"awarder": "Nielsen Norman Group",
+			"summary": "This certificate demonstrates a high level of dedication to UX education, and a strong commitment to the field of UX - certification ID UXC#1015325"
+		},
 		{
 			"title": "Gold International Hermes Creative Award",
 			"date": "2008-06-05",
